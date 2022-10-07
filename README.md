@@ -14,4 +14,4 @@
 
 
 ##### Besonderer Dank an
-[![PitGamer1909](https://github.com/Nurutomo.png?size=150)](https://github.com/PitGamer1909)
+[![PitGamer1909](https://github.com/PitGamer1909.png?size=150)](https://github.com/PitGamer1909)
