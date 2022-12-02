@@ -5,8 +5,7 @@ Just copy the Following text bellow this here Please.
 git clone https://github.com/PitGamer1909/pythonthings.git
 cd pythonthings
 cd Matrix
-python pyautogui
-python keyboard
+pip install ursina
 node .
 ```
 
