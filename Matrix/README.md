@@ -6,7 +6,7 @@ git clone https://github.com/PitGamer1909/pythonthings.git
 cd pythonthings
 cd Matrix
 pip install ursina
-node .
+python matrix.py
 ```
 
 If anything does not work, contact me immediately: ownerteam.cellbot@yahoo.com
